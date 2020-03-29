@@ -1,27 +1,55 @@
 {
-  "name": "Cercube Source",
-  "identifier": "com.xdhelicopter.bruh",
+  "name": "xdhelicopter's Source",
+  "identifier": "com.xdhelicopter.ok",
   "userInfo": {},
   "news": [
     {
+      "title": "Chimera now available on AltStore!",
+      "identifier": "chimera-x-altstore",
+      "caption": "Finally, relive your favorite NES, SNES, GB(C), GBA, and N64 games.",
+      "tintColor": "B8CDCF",
+      "imageURL": "https://pangu8.com/wp-content/uploads/2019/09/Chimera-thumb-header-chimeratv-768x384.png",
+      "appID": "com.electrateam.chimera",
+      "date": "2020-03-25",
+      "notify": false
+    },
+    {
       "title": "Cercube 5",
-      "identifier": "cercube-now-avaliable",
+      "identifier": "cercube-now-here",
       "caption": "Adds new features to YouTube!",
       "tintColor": "fc2c03",
       "imageURL": "https://i.imgur.com/V71sTJi.jpg",
-      "appID": "com.cercube.yes",
+      "appID": "com.cercube.com",
       "date": "2020-03-29",
       "notify": false
     }
   ],
   "apps": [
     {
+      "name": "Chimera Jailbreak",
+      "bundleIdentifier": "com.electrateam.chimera",
+      "developerName": "Electra Team",
+      "subtitle": "Chimera is a jailbreak for iOS 12, and soon iOS 13!",
+      "version": "1.4.0",
+      "versionDate": "2020-03-24T00:00:00-00:00",
+      "versionDescription": "Changes were made!",
+      "downloadURL": "https://chimera.sh/downloads/ios/1.4.0-12.0-12.4.ipa",
+      "localizedDescription": "Chimera jailbreak is a jailbreak tool for iOS 12 devices that also supports A12 devices such as iPhone XS, iPhone XR, and the newest iPads.",
+      "iconURL": "https://i.imgur.com/cF9hdzv.png",
+      "tintColor": "B8CDCF",
+      "size": 2184796,
+      "beta": false,
+      "screenshotURLs": [
+        "https://chimera.sh/img/jumbotron.png"
+      ]
+    },
+    {
       "name": "Cercube 5",
-      "bundleIdentifier": "com.cercube.yes",
+      "bundleIdentifier": "com.cercube.com",
       "developerName": "Majd Alfhaily",
       "subtitle": "Adds new features to YouTube!",
       "version": "15.02",
-      "versionDate": "2020-03-24T00:00:00-00:00",
+      "versionDate": "2019-03-29T14:00:00-07:00",
       "versionDescription": "Changes were made!",
       "downloadURL": "https://www23.zippyshare.com/d/WFpAi5TL/22316/Cercube_v5.1.6.ipa",
       "localizedDescription": "Adds new features to YouTube:\n\nDownload and save videos up to 4k resolution\nSave videos as audio only\nView, manage and share all your downloads in Cercube's download manager\nBlock ads\nShare downloaded videos with other devices via AirDrop\nBackground playback for streamed and downloaded videos\nImport downloads to Music or Videos\nPlay YouTube videos using Picture-in-Picture mode\nDownloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information\nChoose the default tab to open when launching YouTube\nStream videos in HD on cellular network\nAuto-replay videos\nHide floating upload button\nHide the Trending tab\nRewind or forward videos\nCercube options are configurable from within YouTube settings\nPlay in high quality on Mobile Data",
