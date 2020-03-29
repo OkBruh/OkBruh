@@ -1,15 +1,15 @@
 {
   "name": "Cercube Source",
-  "identifier": "com.xdhelicopter.ok",
+  "identifier": "com.xdhelicopter.bruh",
   "userInfo": {},
   "news": [
     {
       "title": "Cercube 5",
-      "identifier": "cercube-now-here",
+      "identifier": "cercube-now-avaliable",
       "caption": "Adds new features to YouTube!",
       "tintColor": "fc2c03",
       "imageURL": "https://i.imgur.com/V71sTJi.jpg",
-      "appID": "com.cercube.com",
+      "appID": "com.cercube.yes",
       "date": "2020-03-29",
       "notify": false
     }
@@ -17,7 +17,7 @@
   "apps": [
     {
       "name": "Cercube 5",
-      "bundleIdentifier": "com.cercube.com",
+      "bundleIdentifier": "com.cercube.yes",
       "developerName": "Majd Alfhaily",
       "subtitle": "Adds new features to YouTube!",
       "version": "15.02",
