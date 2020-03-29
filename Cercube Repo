@@ -1,0 +1,41 @@
+{
+  "name": "Cercube Source",
+  "identifier": "com.xdhelicopter.ok",
+  "userInfo": {},
+  "news": [
+    {
+      "title": "Cercube 5",
+      "identifier": "cercube-now-here",
+      "caption": "Adds new features to YouTube!",
+      "tintColor": "fc2c03",
+      "imageURL": "https://i.imgur.com/V71sTJi.jpg",
+      "appID": "com.cercube.com",
+      "date": "2020-03-29",
+      "notify": false
+    }
+  ],
+  "apps": [
+    {
+      "name": "Cercube 5",
+      "bundleIdentifier": "com.cercube.com",
+      "developerName": "Majd Alfhaily",
+      "subtitle": "Adds new features to YouTube!",
+      "version": "15.02",
+      "versionDate": "2020-03-29T14:00:00-07:00",
+      "versionDescription": "Changes were made!",
+      "downloadURL": "https://www23.zippyshare.com/d/WFpAi5TL/22316/Cercube_v5.1.6.ipa",
+      "localizedDescription": "Adds new features to YouTube:\n\nDownload and save videos up to 4k resolution\nSave videos as audio only\nView, manage and share all your downloads in Cercube's download manager\nBlock ads\nShare downloaded videos with other devices via AirDrop\nBackground playback for streamed and downloaded videos\nImport downloads to Music or Videos\nPlay YouTube videos using Picture-in-Picture mode\nDownloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information\nChoose the default tab to open when launching YouTube\nStream videos in HD on cellular network\nAuto-replay videos\nHide floating upload button\nHide the Trending tab\nRewind or forward videos\nCercube options are configurable from within YouTube settings\nPlay in high quality on Mobile Data",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/e4/0e/d2/e40ed282-e95f-60fc-4abd-9c9c18910a7b/source/512x512bb.jpg",
+      "tintColor": "fc2c03",
+      "size": 2184796,
+      "beta": false,
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
+        "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
+      ]
+    }
+  ]
+}
